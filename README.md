@@ -10,7 +10,8 @@ Abaixo, segue uma sheet atualizada e mantida pela equipe do próprio github.
 
 [https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/](https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/918295b8-d72a-4146-9222-25b98e5bc852/Untitled.png)
+![image](https://user-images.githubusercontent.com/94316507/159286860-8512b416-c780-497a-9c72-0238b730c318.png)
+
 
 Criatividade nunca é demais!
 [Crédito](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.canecadodev.com%2Fcaneca-git-commads-cheat-sheet-preta&psig=AOvVaw2qR3AaGKxdGIo1tsyYT8UH&ust=1647959399953000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIiMiqu11_YCFQAAAAAdAAAAABAD)
